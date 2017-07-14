@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LaunchAnotherApplication</string>
+    <string name="btn_launch_application">Launch application</string>
+</resources>
